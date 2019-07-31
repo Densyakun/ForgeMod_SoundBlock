@@ -1,0 +1,16 @@
+[
+{
+  "modid": "soundblock",
+  "name": "SoundBlock",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Densyakun"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
