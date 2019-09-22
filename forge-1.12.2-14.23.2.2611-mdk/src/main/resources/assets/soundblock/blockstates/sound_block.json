@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facingnorth": { "model": "soundblock:sound_block_model" },
+        "facingeast": { "model": "soundblock:sound_block_model", "y": 90 },
+        "facingsouth": { "model": "soundblock:sound_block_model", "y": 180 },
+        "facingwest": { "model": "soundblock:sound_block_model", "y": 270 }
+    }
+}
